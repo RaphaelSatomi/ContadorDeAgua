@@ -1,5 +1,5 @@
 # Contador De Água 
-Aplicativo criado em curso de react native do zero ao profissional 
+Projeto 1/4 de React Native Básico
 
 # Explicação do Aplicativo 
 Aplicativo simples que você vai adicionando quantos copos você bebeu(deixei como base 200ml por copo) e vai verificando se você alcançou a meta(2000ml, 10 copos) mostrando a porcentagem 
